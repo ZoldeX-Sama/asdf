@@ -4,4 +4,4 @@ prefix= 2
 game= London Host
 stayinchannel=true
 songinstatus=true 
-token=NTgyMzA1MzIzMjk4MTkzNDA5.XOsIMg.sEPocRlisc2-jwKp3gCoJxs6UJY
+
